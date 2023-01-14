@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/bitcoins-app/static/js/main.1d2c5ae8.js",
+    "static/media/btns.png": "/bitcoins-app/static/media/btns.61e4d3a79f6bc5888f88.png",
+    "static/media/Amjad Sir.png": "/bitcoins-app/static/media/Amjad Sir.895cff6c4c3379740e06.png",
+    "index.html": "/bitcoins-app/index.html",
+    "main.1d2c5ae8.js.map": "/bitcoins-app/static/js/main.1d2c5ae8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1d2c5ae8.js"
+  ]
+}
